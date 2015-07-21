@@ -52,7 +52,7 @@ reply = "<img src=\"file://"+java.lang.System.getProperty("user.dir")+"/image.jp
 The chat mode is when you open a soul (the database) only to ask something and get the reply. In this case a question is a simple string. When you submit a question the software searches the first regular expression that match it and then shows the relative answer. If there are many answers to a single question, the software choose randomly one answer. If the answer is a function, it will be executed and then will be printed the content of the variable *reply*.
 
 ### Screenshot
-![screenshot](screenshot.jpg "Screenshot")
+![screenshot](./Screenshot.jpg "Screenshot")
 
 ### Execution
 This software was tested only on GNU/Linux. If you want run it type the following command in a terminal:
