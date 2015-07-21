@@ -65,7 +65,7 @@ Please check if you have Java installed.
 
 ### Folders content
 - src: java source code
-- lib: sqlite library (you have to add this external jar when import the project)
+- lib: sqlite library (you have to add this as external jar when you'll import the project)
 
 ### Todo
 
