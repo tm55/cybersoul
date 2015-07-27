@@ -7,7 +7,7 @@ Basically, you can save questions with the relative answers. See below to know b
 ### Version
 Alpha version: 0.1
 
-### How it works?
+### How does it work?
 All the questions and the relative answers are saved in a local database.
 
 There are the *edit mode* and the *chat mode*.
